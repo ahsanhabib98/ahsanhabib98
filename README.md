@@ -55,7 +55,7 @@
 
 ### 📈 Leetcode Stats
 
-![LeetCode Stats](https://leetcard/jacoblin.cool/ahsanhabib98/ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ahsanhabib98?theme=dark&font=Montagu%20Slab&ext=contest)
 
 ---
 
