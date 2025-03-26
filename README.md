@@ -53,6 +53,12 @@
 
 ---
 
+### 📈 Leetcode Stats
+
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/ahsanhabib98)
+
+---
+
 ### 💬 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-habib-43421b125)
