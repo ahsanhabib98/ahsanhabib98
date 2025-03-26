@@ -35,21 +35,6 @@
 
 ---
 
-### 💻 Notable Projects
-Here are a few projects I’m proud of:
-- [**Project: Enhancing AI Model Security**](https://github.com/ahsanhabib98/project1): Developed Transformer-based deep learning models to reduce the attack success rate of OARS-enhanced black-box probing attacks from 93% to less than 1.78%.
-- [**Project: Split Inference with TEE**](https://github.com/ahsanhabib98/project2): Built a Split Inference system using multi-enclave Trusted Execution Environments to protect On-Device Machine Learning data.
-- [**Project: Mask R-CNN for Bubble Detection**](https://github.com/ahsanhabib98/project3): Created a deep learning model for bubble detection in geothermal applications, achieving up to 78.6% accuracy.
-
----
-
-### 📜 Publications
-- [Detecting Black-box Model Probing Attacks Through Probability Scores](https://doi.org/10.1109/ACCESS.2021.3129491), IEEE Access Journal.
-- [A Novel Pre-Processing Approach for Small Object Detection](https://doi.org/10.3390/rs16203753), MDPI Journal of Remote Sensing.
-- [Deep Learning for R-134a Bubble Detection](https://doi.org/10.1016/j.csite.2023.103377), Elsevier Journal of Case Studies in Thermal Engineering.
-
----
-
 ### 💬 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/ahsan-habib-43421b125)
