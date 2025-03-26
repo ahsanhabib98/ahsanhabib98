@@ -12,7 +12,7 @@
 - AI, Machine Learning, and Cybersecurity projects.
 - Real-world applications of on-device AI models and secure systems.
 
-⚡ **Fun fact**: I'm a passionate competitive programmer, having solved over 1000 problems across platforms!
+⚡ **Fun fact**: I'm a passionate competitive programmer, having solved over 1000+ problems across platforms!
 
 ---
 
