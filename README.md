@@ -55,7 +55,7 @@
 
 ### 📈 Leetcode Stats
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/ahsanhabib98)
+![LeetCode Stats](https://leetcard/jacoblin.cool/ahsanhabib98/ext=heatmap)
 
 ---
 
