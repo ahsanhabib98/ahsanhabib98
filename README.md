@@ -52,12 +52,6 @@
 
 ---
 
-### 📈 Leetcode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ahsanhabib98?theme=dark&font=Montagu%20Slab&ext=contest)
-
----
-
 ### 💬 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-habib-43421b125)
